@@ -1,0 +1,17 @@
+.review-page {
+  width: 60%;
+  margin: 3rem auto;
+}
+
+.review-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  margin-bottom: 10rem;
+}
+
+@media (max-width: 768px) {
+  .review-list {
+    grid-template-columns: 1fr;
+  }
+}

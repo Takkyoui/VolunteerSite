@@ -1,0 +1,46 @@
+/* ParticipantListPage.css */
+.participant-list-page {
+  padding: 2rem;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.post {
+  margin-bottom: 2rem;
+}
+
+.post h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.post h3 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.toggle-button {
+  padding: 0.6rem 1rem;
+  font-size: 1.2rem;
+  background-color: #f5f5f5;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.participant-list {
+  list-style-type: none;
+  margin-top: 1rem;
+  padding: 0;
+  display: none;
+}
+
+.participant-list.visible {
+  display: block;
+}
+
+.participant-list li {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}

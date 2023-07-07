@@ -1,0 +1,49 @@
+.volunteer-card {
+  background-color: rgb(251, 251, 251);
+  border-radius: 0.8rem;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.1);
+  padding: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.volunteer-card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 0.8rem;
+  margin-bottom: 1.6rem;
+}
+
+.volunteer-card-content {
+  font-size: 1.4rem;
+  margin-bottom: 0.8rem;
+}
+.volunteer-card-author-cancel {
+  bottom: 0;
+  padding: 2rem;
+}
+.volunteer-card-author-cancel button {
+  border: none;
+  background-color: rgb(255, 156, 156);
+  border-radius: 12px;
+  color: white;
+}
+.volunteer-card-author-cancel button:hover {
+  background-color: rgb(255, 109, 109);
+}
+
+.volunteer-card-author {
+  font-size: 1rem;
+  color: #888;
+}
+.volunteer-card-status {
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.status-open {
+  color: rgb(172, 248, 102);
+}
+
+.status-closed {
+  color: rgb(248, 178, 178);
+}

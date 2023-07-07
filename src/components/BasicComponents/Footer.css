@@ -1,0 +1,40 @@
+.footer-container {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100rem;
+}
+
+/* Footer Content */
+.footer {
+  background-color: #ffd4d4;
+  color: #2f2f2f;
+  margin-top: 13rem;
+}
+
+.footer .container {
+  padding: 20px;
+}
+
+.footer .footer-content {
+  text-align: center;
+}
+
+.footer .footer-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.footer .footer-text {
+  font-size: 14px;
+}
+
+.footer {
+  /* position: fixed; */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}

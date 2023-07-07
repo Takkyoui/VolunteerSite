@@ -1,0 +1,38 @@
+.my-participate-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 6rem auto;
+  margin-bottom: 38rem;
+}
+
+.post {
+  border: 1px solid #ccc;
+  border-radius: 0.8rem;
+  padding: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.participate-button,
+.cancel-button {
+  padding: 0.8rem 1.2rem;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+.participate-button {
+  background-color: #4caf50;
+  color: white;
+}
+
+.cancel-button {
+  background-color: #f44336;
+  color: white;
+}

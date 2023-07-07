@@ -1,0 +1,30 @@
+.withdraw-page-container {
+  max-width: 60%;
+  margin: 10rem auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30rem;
+}
+
+.withdraw-page-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.withdraw-page-description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.withdraw-page-button {
+  background-color: #ff5a5f;
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
