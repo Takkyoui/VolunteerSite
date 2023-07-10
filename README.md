@@ -1,37 +1,42 @@
 # 마음이음 (봉사모집 사이트)
-<p align="center">
-  <br>
-<img width="1138" alt="mainpage" src="https://github.com/Takkyoui/portfolio/assets/126454758/8cf0dc11-e386-4ba3-a44f-2fad92e57b24">
-  
-  <br>
-</p>
+![스크린샷 2023-07-10 오후 2 46 37](https://github.com/Takkyoui/volunteerSite/assets/126454758/f4808041-bf7a-40f4-b8a8-1e98720569cd)
+
+
+
 
 목차
 
 ## 프로젝트 소개
 
 
-<p align="justify">
-WeEarth는 환경 보호와 관련된 일상적인 활동을 수행하여 스스로에게 점수를 부여하고 일기 형식으로 기록하는 웹 사이트입니다. 사용자는 예를 들어 쓰레기를 주우기, 텀블러를 사용하기와 같은 환경 친화적인 활동을 수행하며 스스로 점수를 줄 수 있습니다. 주요 기능은 다이어리, 커뮤니티, 그리고 뉴스입니다.
 
-WeEarth는 사용자가 일상에서 환경 보호에 기여하는 것을 장려하고, 그 활동을 기록하며 커뮤니티와 연결하여 환경 보호 의식을 증진시키는데 목적을 두고 있습니다.
+
+<p align="justify">
+마음이음은 봉사를 위한 온라인 플랫폼입니다. 이 곳에서는 봉사 모집 공고를 게시하고, 커뮤니티를 형성하여 사람들이 봉사 활동에 참여하고 그 경험을 공유할 수 있습니다.
+
+"마음이음"은 다양한 봉사 모집 공고를 제공하여 사용자들이 자신에게 맞는 봉사 기회를 찾을 수 있도록 돕습니다. 여기에서는 다양한 분야의 봉사 모집 글을 올릴 수 있으며, 관심 있는 활동에 참여하여 봉사자로서 소중한 경험을 쌓을 수 있습니다.
 </p>
 
 
 
 <p align="center">
   
-### 다이어리: 사용자는 일기 형식으로 자신의 환경 보호 활동을 기록할 수 있습니다.
+### 봉사모집: 사용자는 봉사모집공고 글을 올려서 모집할수 있고 참여할수 있습니다.
   
- <img width="1199" alt="diary" src="https://github.com/Takkyoui/portfolio/assets/126454758/4b1d8d13-6c53-4e1f-a3c9-a57c5816e3ea">
+<img width="1253" alt="스크린샷 2023-07-10 오후 4 57 11" src="https://github.com/Takkyoui/volunteerSite/assets/126454758/ae91c838-5d01-4bff-a8b1-88fe9dfd00f6">
+
   
 ### 커뮤니티: 사용자는 다른 사용자들과 소통하고 정보를 공유할 수 있는 평범한 커뮤니티 기능을 제공합니다.
 
-<img width="1060" alt="community" src="https://github.com/Takkyoui/portfolio/assets/126454758/a41890ca-ac78-4154-96b2-41001aa497ca">
+![스크린샷 2023-07-10 오후 2 46 54](https://github.com/Takkyoui/volunteerSite/assets/126454758/a23c1858-1923-4573-8685-b92710cc302f)
 
-### 뉴스: 네이버 환경 뉴스를 크롤링하여 사용자에게 한 장의 뉴스를 읽을 수 있는 형식으로 제공합니다.
 
-<img width="1225" alt="news" src="https://github.com/Takkyoui/portfolio/assets/126454758/e799f855-7c8e-4de0-b423-ca2c91a00561">
+### 후기: 사용자는 자신의 봉사 후기를 다른 사람들고 공유할수 있습니다.
+
+![스크린샷 2023-07-10 오후 2 47 00](https://github.com/Takkyoui/volunteerSite/assets/126454758/958d4676-4bb0-4929-92ff-0cd6e5f5fe7f)
+
+
+
 
 </p>
 
